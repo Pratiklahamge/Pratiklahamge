@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[lemonbasket.in](https://lemonbasket.in/my-account/?login=true&back=home&page=1/)**
+- 🔭 I’m currently doing Fellowship program in **Brigelabze**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
